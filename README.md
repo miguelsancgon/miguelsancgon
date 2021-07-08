@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguelsancgon
 - 👀 I’m interested in computer science, math and video games.
-- 🌱 I’m currently learning everything I can abouut programming specially in regards to eaither C#, Java or Python.
-- 💞️ I’m looking to collaborate on as many C# projects as posible to gain experience in this langauge.
+- 🌱 I’m currently learning everything I can about programming specially in regards to eaither C#, Java or Python.
+- 💞️ I’m looking to collaborate on as many C# projects as possible.
 - 📫 You can contact me directly at masanchez@masmedia.co
 
 <!---
