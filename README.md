@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer science, math and video games.
 - 🌱 I’m currently learning everything I can about programming specially in regards to C#, Python and JavaScript.
 - 💞️ I’m looking to collaborate on as many C#, React projects as possible.
-- 📫 You can contact me directly at masanchez@masmedia.co
 
 <!---
 miguelsancgon/miguelsancgon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
