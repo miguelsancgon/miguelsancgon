@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelsancgon a FullStack developer.
 - 👀 I’m interested in computer science, math and video games.
-- 🌱 I’m currently learning everything I can about programming specially in regards to C# and JavaScript.
+- 🌱 I’m currently learning everything I can about programming specially in regards to C# and JavaScript/TS.
 
 <!---
 miguelsancgon/miguelsancgon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
